@@ -1,1 +1,1 @@
-Hi everyone!
+This is a restaurant management system project.
